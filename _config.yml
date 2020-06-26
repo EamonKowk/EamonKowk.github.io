@@ -62,23 +62,23 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 8217a61e982b824b36e0                            #生成的clientID
+  clientSecret: 9dc7a2e142593e013adea33f303a670eda864993    #生成的clientSecret
   repo: eamonkowk.github.io    #仓库名称
   owner: eamonkowk    #github用户名
   admin: eamonkowk
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
-# 统计
+# # 统计
 
-# Analytics settings
-# Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# # Analytics settings
+# # Baidu Analytics
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
-# Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# # Google Analytics
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
